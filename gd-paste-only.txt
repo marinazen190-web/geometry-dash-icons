@@ -1,0 +1,344 @@
+<!-- wp:kadence/rowlayout {"uniqueID":"gd-hero","columns":1,"colLayout":"equal","bgColor":"#0a0c14","paddingType":"px","topPadding":80,"bottomPadding":60} -->
+<div class="wp-block-kadence-rowlayout kb-row-layout-wrap kb-row-id-gd-hero" style="background-color:#0a0c14;padding-top:80px;padding-bottom:60px">
+<!-- wp:kadence/column {"uniqueID":"gd-hero-col"} -->
+<div class="wp-block-kadence-column kadence-column-gd-hero-col">
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffd700"},"typography":{"fontSize":"13px","fontWeight":"700","letterSpacing":"2px","textTransform":"uppercase"}}} -->
+<p class="has-text-align-center" style="color:#ffd700;font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase">✦ Free Download 2026</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"900"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="color:#ffffff;font-weight:900">Geometry Dash <span style="color:#ffd700">All Icons Download</span></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"17px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:17px">Complete icon pack with every cube, ship, ball, UFO, wave, robot, spider, and swing copter. One ZIP — all 484+ icons included. Free, no signup required.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"backgroundColor":"#ffd700","textColor":"#0a0a0a","style":{"border":{"radius":"50px"},"spacing":{"padding":{"top":"16px","bottom":"16px","left":"36px","right":"36px"}},"typography":{"fontSize":"17px","fontWeight":"700"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="YOUR_ZIP_URL_HERE" style="background-color:#ffd700;color:#0a0a0a;border-radius:50px;padding:16px 36px;font-size:17px;font-weight:700">⬇ Download All Icons – Free ZIP</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:13px"><span style="color:#3fd68a">✓ Free</span> &nbsp;·&nbsp; <span style="color:#3fd68a">✓ No signup</span> &nbsp;·&nbsp; <span style="color:#3fd68a">✓ Safe download</span> &nbsp;·&nbsp; ~12MB ZIP</p>
+<!-- /wp:paragraph -->
+
+</div>
+<!-- /wp:kadence/column -->
+</div>
+<!-- /wp:kadence/rowlayout -->
+
+<!-- wp:spacer {"height":"8px"} -->
+<div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"style":{"color":{"background":"#12151f"},"border":{"width":"1px","color":"#ffffff12"}}} -->
+<div class="wp-block-columns" style="background-color:#12151f;border:1px solid #ffffff12">
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}},"border":{"right":{"color":"#ffffff12","width":"1px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;padding-bottom:20px;border-right:1px solid #ffffff12">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffd700"},"typography":{"fontSize":"28px","fontWeight":"900"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="color:#ffd700;font-size:28px;font-weight:900">484+</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"12px","fontWeight":"600","textTransform":"uppercase","letterSpacing":"1px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1px">Total Icons</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}},"border":{"right":{"color":"#ffffff12","width":"1px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;padding-bottom:20px;border-right:1px solid #ffffff12">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffd700"},"typography":{"fontSize":"28px","fontWeight":"900"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="color:#ffd700;font-size:28px;font-weight:900">8</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"12px","fontWeight":"600","textTransform":"uppercase","letterSpacing":"1px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1px">Categories</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}},"border":{"right":{"color":"#ffffff12","width":"1px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;padding-bottom:20px;border-right:1px solid #ffffff12">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffd700"},"typography":{"fontSize":"28px","fontWeight":"900"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="color:#ffd700;font-size:28px;font-weight:900">PNG</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"12px","fontWeight":"600","textTransform":"uppercase","letterSpacing":"1px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1px">Format</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px;padding-bottom:20px">
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffd700"},"typography":{"fontSize":"28px","fontWeight":"900"}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="color:#ffd700;font-size:28px;font-weight:900">Free</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"12px","fontWeight":"600","textTransform":"uppercase","letterSpacing":"1px"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:1px">Always</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"textAlign":"center","style":{"typography":{"fontWeight":"900"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-weight:900">What's <span style="color:#ffd700">Included</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8">All 8 icon categories from Geometry Dash — every unlockable icon in the game</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🟦</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Cube</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">142 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🚀</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Ship</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">51 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">⚪</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Ball</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">58 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🛸</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">UFO</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">57 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"12px"} -->
+<div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns">
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">〰️</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Wave</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">43 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🤖</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Robot</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">26 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🕷️</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Spider</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">23 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"16px","right":"16px"}}}} -->
+<div class="wp-block-column" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px 16px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px"}}} --><p class="has-text-align-center" style="font-size:28px">🌀</p><!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} --><h3 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:700;font-size:16px">Swing</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"},"typography":{"fontSize":"13px"}}} --><p class="has-text-align-center" style="color:#8a8fa8;font-size:13px">43 icons</p><!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"textAlign":"center","style":{"typography":{"fontWeight":"900"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-weight:900">How to <span style="color:#ffd700">Use</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8">4 simple steps — download aur use karo</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"12px"}}}} -->
+<div class="wp-block-group" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px;margin-bottom:12px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:16px"><span style="background:#ffd700;color:#0a0a0a;border-radius:50%;padding:2px 8px;margin-right:10px;font-size:14px">1</span> Download the ZIP</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">Download button pe click karo — ZIP file mein saare icons category folders mein sorted hain: Cube, Ship, Ball, UFO, Wave, Robot, Spider, Swing.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"12px"}}}} -->
+<div class="wp-block-group" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px;margin-bottom:12px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:16px"><span style="background:#ffd700;color:#0a0a0a;border-radius:50%;padding:2px 8px;margin-right:10px;font-size:14px">2</span> Extract the ZIP</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">WinRAR, 7-Zip ya device ka built-in extractor use karo. Android pe ZArchiver, iPhone pe Files app kaam karti hai.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"12px"}}}} -->
+<div class="wp-block-group" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px;margin-bottom:12px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:16px"><span style="background:#ffd700;color:#0a0a0a;border-radius:50%;padding:2px 8px;margin-right:10px;font-size:14px">3</span> Use as Thumbnails or Wallpapers</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">Icons PNG format mein hain transparent background ke saath — YouTube thumbnails, Discord profile pics, fan art ke liye perfect.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"margin":{"bottom":"12px"}}}} -->
+<div class="wp-block-group" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:20px;margin-bottom:12px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"16px"}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:16px"><span style="background:#ffd700;color:#0a0a0a;border-radius:50%;padding:2px 8px;margin-right:10px;font-size:14px">4</span> Find Your Icon</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">Har file naam category aur number se hai — cube_001.png, ship_012.png — specific icon easily milta hai.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"textAlign":"center","style":{"typography":{"fontWeight":"900"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="font-weight:900">Frequently Asked <span style="color:#ffd700">Questions</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:kadence/accordion {"uniqueID":"gd-faq"} -->
+<div class="wp-block-kadence-accordion kt-accordion-id-gd-faq">
+<!-- wp:kadence/pane {"id":1,"title":"Is this Geometry Dash icon pack free?","uniqueID":"faq1"} -->
+<div class="kt-accordion-pane kt-accordion-pane-1"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">Is this Geometry Dash icon pack free?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>Yes, completely free. No signup, no payment, no hidden steps. Click download and get all 484+ icons in one ZIP file instantly.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+<!-- wp:kadence/pane {"id":2,"title":"How many icons are in the pack?","uniqueID":"faq2"} -->
+<div class="kt-accordion-pane kt-accordion-pane-2"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">How many icons are in the pack?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>484+ icons across 8 categories: Cube (142), Ship (51), Ball (58), UFO (57), Wave (43), Robot (26), Spider (23), Swing (43). All base game icons included.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+<!-- wp:kadence/pane {"id":3,"title":"What format are the icons in?","uniqueID":"faq3"} -->
+<div class="kt-accordion-pane kt-accordion-pane-3"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">What format are the icons in?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>All icons are PNG with transparent backgrounds. Works in Photoshop, Canva, GIMP, or any image editor.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+<!-- wp:kadence/pane {"id":4,"title":"Does this unlock icons in the actual game?","uniqueID":"faq4"} -->
+<div class="kt-accordion-pane kt-accordion-pane-4"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">Does this unlock icons in the actual game?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>No — this is an image pack for external use. To unlock icons inside the game, you need to collect stars and complete achievements.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+<!-- wp:kadence/pane {"id":5,"title":"Is it safe to download?","uniqueID":"faq5"} -->
+<div class="kt-accordion-pane kt-accordion-pane-5"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">Is it safe to download?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>Yes. The ZIP is hosted on a secure CDN and contains only PNG image files — no executables, no scripts. Safe to download.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+<!-- wp:kadence/pane {"id":6,"title":"Can I use icons for YouTube thumbnails?","uniqueID":"faq6"} -->
+<div class="kt-accordion-pane kt-accordion-pane-6"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header">Can I use icons for YouTube thumbnails?</button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner">
+<!-- wp:paragraph --><p>Yes! Transparent PNG format is perfect for YouTube thumbnails, Discord servers, fan art, and all GD content creation.</p><!-- /wp:paragraph -->
+</div></div></div>
+<!-- /wp:kadence/pane -->
+</div>
+<!-- /wp:kadence/accordion -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#12151f"},"border":{"radius":"10px","width":"1px","color":"#ffffff12"},"spacing":{"padding":{"top":"32px","bottom":"32px","left":"24px","right":"24px"}}}} -->
+<div class="wp-block-group" style="background-color:#12151f;border:1px solid #ffffff12;border-radius:10px;padding:32px 24px">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"20px"}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:20px">Geometry Dash All Icons – Complete Guide</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">Geometry Dash has one of the most iconic visual styles in mobile gaming. RobTop Games has added hundreds of unique player icons across multiple categories. This pack gives you all of them in one download.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"20px"},"spacing":{"margin":{"top":"24px"}}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:20px;margin-top:24px">All Geometry Dash Icon Types Explained</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8"><strong style="color:#e8eaf0">Cube</strong> is the default form. <strong style="color:#e8eaf0">Ship</strong> flies — hold to go up. <strong style="color:#e8eaf0">Ball</strong> rolls and flips gravity. <strong style="color:#e8eaf0">UFO</strong> hops upward each tap. <strong style="color:#e8eaf0">Wave</strong> moves diagonally — the hardest mode. <strong style="color:#e8eaf0">Robot</strong> jumps with variable height. <strong style="color:#e8eaf0">Spider</strong> teleports between floor and ceiling. <strong style="color:#e8eaf0">Swing</strong> was added in GD 2.2.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"700","fontSize":"20px"},"spacing":{"margin":{"top":"24px"}}}} -->
+<h3 class="wp-block-heading" style="color:#fff;font-weight:700;font-size:20px;margin-top:24px">What's New in Geometry Dash 2.2</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#8a8fa8"}}} -->
+<p style="color:#8a8fa8">Geometry Dash 2.2 (December 2023) added new cubes, ships, and the Swing Copter. This pack includes all 2.2 icons — older packs from other sites may be missing dozens of newer icons.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"color":{"background":"#0d1428"},"border":{"radius":"16px","width":"1px","color":"#ffd70026"},"spacing":{"padding":{"top":"48px","bottom":"48px","left":"24px","right":"24px"}}}} -->
+<div class="wp-block-group" style="background-color:#0d1428;border:1px solid rgba(255,215,0,0.15);border-radius:16px;padding:48px 24px;text-align:center">
+<!-- wp:heading {"level":2,"textAlign":"center","style":{"color":{"text":"#ffffff"},"typography":{"fontWeight":"900","fontSize":"32px"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="color:#fff;font-weight:900;font-size:32px">Get All <span style="color:#ffd700">484+ Icons</span> Now</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#8a8fa8"}}} -->
+<p class="has-text-align-center" style="color:#8a8fa8">One ZIP file. Every icon. Completely free.</p>
+<!-- /wp:paragraph -->
+<!-- wp:spacer {"height":"20px"} --><div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"style":{"color":{"background":"#ffd700","text":"#0a0a0a"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"16px","bottom":"16px","left":"36px","right":"36px"}},"typography":{"fontSize":"17px","fontWeight":"700"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="YOUR_ZIP_URL_HERE" style="background-color:#ffd700;color:#0a0a0a;border-radius:50px;padding:16px 36px;font-size:17px;font-weight:700">⬇ Download Free Icon Pack</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
